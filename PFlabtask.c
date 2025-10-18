@@ -1,3 +1,4 @@
+//Question2 
 #include <stdio.h>
 int main(){
     int array[10],row,flag,searchvalue,searchcount;
@@ -22,4 +23,5 @@ int main(){
     else printf("%d Occurred %d times",searchvalue,searchcount); 
     
 }
+
     
